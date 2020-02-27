@@ -1,0 +1,3 @@
+ - pedir para me dizerem que tipo de graficos usam ou qual tipo gostaria de aprender a partir do graph gallery python
+
+ - ensinar a importar dados, inclusive com dados complicados 
